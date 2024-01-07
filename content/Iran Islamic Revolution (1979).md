@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/iran-islamic-revolution-1979/"}
+---
+
+# Iran Islamic Revolution (1979)
+- Popular uprising against autocratic rule of Shah Mohammad Reza Pahlavi
+    - Widespread discontent with Shah's oppressive regime
+    - Socio-economic inequality
+    - Opposition to Western influence in Iran
+- Led by Ayatollah Ruhollah Khomeini
+    - Mobilization of diverse groups
+        - Religious leaders
+        - Intellectuals
+        - Students
+        - Urban poor
+    - Utilized mass protests, strikes, and civil disobedience
+- Shah forced to flee
+    - Mass protests paralyzed the country
+    - Shah's loss of support and control
+- Establishment of an Islamic republic
+    - Ayatollah Khomeini declared as Supreme Leader
+    - Implementation of Islamic law
+    - Purging of opposition
+    - Challenge to Western dominance
+- Aftermath
+    - Consolidation of power under Khomeini's rule
+    - Repression of dissent and political opposition
+    - Social and cultural transformation based on Islamic principles
+    - Economic challenges and sanctions
+- International Response
+    - Concerns over human rights violations
+    - Shift in Iran's foreign policy and regional influence
+    - Hostage crisis at the US embassy in Tehran
+    - Imposition of economic sanctions by the United States
+    - Impact on Middle Eastern geopolitics
+    - Ongoing tensions with Western countries

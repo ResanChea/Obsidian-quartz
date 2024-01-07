@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/assets/unga-simulation-3/covid-19-unga-fiji-position-paper/"}
+---
+
+# COVID-19 UNGA Fiji Position Paper
+
+The COVID-19 pandemic that has thrown the world in disarray and had led to almost four million deaths world wide. International borders, trade, and services such as tourism has ground to a halt, which pushed countries to economic decline, health crisis, and international isolation. Through all of these, countries have also been needlessly politicizing the origins of the virus and antagonizing one another rather than listening to experts on how to best get economies and society back into normalcy. Furthermore, on a lower level, people have discriminated against Asians, especially those who lives in western countries. For the reason the COVID-19 virus originated in China, citizens have unreasonably disgraced those who had no role in the spread of the novel virus. 
+
+Lately, as different variations of vaccines are developed, CEPI, Gavi and the WHO has been leading the COVAX effort to distribute to 190 different countries equally and without bias. Among those fortunate enough, the Republic of the Fiji Islands was the first among the pacific islanders to receive the distributed vaccines back in March 2021. So far, Fiji has vaccinated a quarter of its population at least one dose and is aiming for herd immunity as soon as possible. Along this United Nations General Assembly meeting, the Republic of Fiji Islands aims to represent the interests of the pacific in obtaining vital vaccines to protect people in the pacific islands region. Moreover, we, the Republic of Fiji Lands, hope for international cooperation to take place in this UNGA meeting in banding together and tackling this issue once and for all.
+
+As a consequence of the pandemic, Fiji and many other nations have suffered greatly from the cut of international economic trade, tourism, and services. Therefore, we encourage all nations not only to cooperate in destroying the virus, but also to rebuild economic ties as quick as reasonable to ensure smooth economic recovery once this pandemic is concluded.
+
+Some attempts of vaccination campaigns were happening in the pacific islands, but they seemed too slow and lack luster. As the Republic of Fiji Lands was the first Pacific Island nation to receive the vaccine roll out from the global initiative named COVAX, we, the Republic of Fiji Islands, urge countries of higher abilities to step in and further help countries who are unable to obtain vaccines sufficiently on their own.

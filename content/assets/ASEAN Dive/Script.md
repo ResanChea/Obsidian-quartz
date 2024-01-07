@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/assets/asean-dive/script/"}
+---
+
+# Script
+
+The second aspect of diversity in ASEAN is the economy. Generally, ASEAN is described from outsiders as being divided into 2 groups, the ASEAN Six, which are Brunei, Indonesia, Malaysia, the Philippines, Singapore, and Thailand. These countries have significantly larger economies than the rest of the members which are the CLMV, Cambodia, Laos, Myanmar, and Vietnam. Moving on from that we can see from the graphs here that shows the difference between ASEAN members' GDP, and especially with GDP per capita which in 2018 Singapore had $64,581 and Myanmar had $1,299. What this economic diversity means is there is less incentive for other countries to do multilateral regional trade agreements, when they can just making a few bilateral free trade agreements with the richer members and get more benefits from it. And this divides ASEAN in two ways, First is that it makes ASEAN a failure as a cooperation platform because united regional interests are undermined by each member's national interests, where ASEAN members seek bilateral agreements instead of acting as a group. The second way Economic diversity divides ASEAN is that it invites external influence in decision makings. Economic reliance on world powers means that they can influence decision makings in ASEAN, as it is a consensus based institution. As we've already seen China's influence over Cambodia had pushed the country to block ASEAN unified movement on the South China Sea Issue in both 2012 and 2016.

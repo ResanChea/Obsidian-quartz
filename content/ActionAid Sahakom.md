@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/action-aid-sahakom/","title":"ActionAid Sahakom"}
+---
+
+# [[ActionAid\|ActionAid]] Sahakom
+- Inputing child profile requires
+	- CM
+	- Questions sheet
+	- Permission/consent form
+	- 
+- Varifying Background Sheet
+	- See if name is spelled correctly (partner might write it wrong)
+		- If not sure, officer can ask partner org to verify
+	- Date of Birth: 3->11 years old only
+		- Older can't be accepted
+	- Gender: verify using attached image
+	- Sibling Number
+- In SK: go to Planning and Collections>Collections>
+	- Collection Type>New Profile (filter)
+	- Find the Profile ID that was given
+		- Press Details at its end
+		- Add new Child
+		- Child Details
+			- ស្រុក ភូមិ 
+			- Occupation: must be input with standard of FA (list)
+			- Phone number with (+855) ########
+			- Upload consent form
+			- Upload CM
+				- Both sides as 2 pictures
+		- Profile Questions
+			- Siblings
+			- Distance to school is measured in walking time (not biking...)
+			- 5 years and up is 'many years'
+		- Media
+			- Upload picture of the child
+			- Mostly volunteers will be checking if its the correct child (gender, DOB, siblings)
+				- Can correct if found mistake

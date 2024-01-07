@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/is-404-reflection-paper-9/"}
+---
+
+# IS404 Reflection Paper 9
+
+Class: IS404
+Created Time: December 18, 2021 8:29 PM
+Database: Assignment Database
+Last Edited Time: December 18, 2021 8:47 PM
+
+[[CMRAI-C9  Mediation\|CMRAI-C9  Mediation]] 
+
+Chapter 9 is about mediators and intermediaries in negations or conflict settlements. Mediators are a neutral third party that assists the conflicting parties in reaching a negotiation, settlement, or agreement. Mediators are responsible for gathering the parties to voluntarily talk, negotiate peacefully, and reduce the existing emotions. Mediators have no authoritative power or any formal standard of procedures. They are supposed to carry messages between the parties, clarifying their meanings, and offer suggestions. Emotions are to be controlled and ideas of agreements and disagreements are to be encouraged to be expressed. Conflicting parties might need motivations to ask for mediators for various reasons. Mediators must have skills of communication and management of adversarial relations towards an agreement. They can either be simple communicative channels, act as a buffer of emotional messages, and help parties express their concerns clearly and rationally. Mediators must help identify and prioritize topics to be addressed instead of shaping the content of the agreement. However, mediators can also be more directive if they have leverage over the parties and more or less pressure parties to concede and accept a settlement. Rewards can be given for concessions, sanctions could be put for stand still positions, and positions can be persuaded. Mediations can be facilitative or evaluative. Facilitative mediations stressed the informal, consensual, and unbinding nature of the solution while evaluative mediations have a mediator with judgement authority in deciding the fairness of the agreement. Mediators can also help conflicting parties develop transformative mechanisms to help solve future conflicts by themselves. Mediators is said to come from various entities such as states, non-states, multiple states, international or regional organizations, or even individuals such as religious leaders and politicians. The context, parties involved, and situations of the conflict can help determine what type of mediator is appropriate. 
+
+In this chapter, I learned that most times mediators are only a translator of foul, emotional, and unclear messages between the conflicting parties with different values and beliefs. A mediator can act as an intermediary who possess the communication and management skill to relay these messages and steer the discussion towards the direction of an agreement. I learned that the power relation between mediators and conflicting parties can determine how decisions are made. I also learned that mediators with power could pressure and force weaker states to comply and compromise as well. I understand that mediations is one of the more simpler but more effective ways of negotiations where parties do not see eye to eye.

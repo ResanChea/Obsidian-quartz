@@ -1,0 +1,103 @@
+---
+{"dg-publish":true,"permalink":"/is-409-international-security/"}
+---
+
+# IS409 International Security
+- Lecturer: [[Nhem Boraden (NBR)\|Nhem Boraden (NBR)]]
+## Notes
+| File                                                                                                                                                                                                               | created        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[Strategic Culture\|Strategic Culture]]                                                                                                                                                                        | May 08, 2022   |
+| [[Coercive Diplomacy\|Coercive Diplomacy]]                                                                                                                                                                      | April 14, 2022 |
+| [[Deterrence\|Deterrence]]                                                                                                                                                                                      | April 13, 2022 |
+| [[Ethnic Conflicts\|Ethnic Conflicts]]                                                                                                                                                                          | April 04, 2022 |
+| [[Genocide\|Genocide]]                                                                                                                                                                                          | \-             |
+| [[IS409 Orientation\|IS409 Orientation]]                                                                                                                                                                        | \-             |
+| [[references/War\|War]]                                                                                                                                                                                         | \-             |
+| [[references/Why Do States Build Nuclear Weapons__ Three Models in Search of a Bomb by Scott D. Sagan (1995)\|Why Do States Build Nuclear Weapons__ Three Models in Search of a Bomb by Scott D. Sagan (1995)]] | \-             |
+| [[Terrorism\|Terrorism]]                                                                                                                                                                                        | \-             |
+| [[War\|War]]                                                                                                                                                                                                    | \-             |
+| [[WMD\|WMD]]                                                                                                                                                                                                    | \-             |
+
+{ .block-language-dataview}
+## Assignments
+- [[IS409 Major Assignment on Motivations of States for Nuclear Weapons\|IS409 Major Assignment on Motivations of States for Nuclear Weapons]]
+- [[Impacts from State Failure and Intervention over Sovereingty\|Impacts from State Failure and Intervention over Sovereingty]]
+
+{ .block-language-dataview}
+
+## Review on [[daily/2022-06-27\|2022-06-27]]
+- 3 Comprehension questions (69 marks)
+	- Can be very easy
+		- Ex: What is terrorism?
+	- Harder
+		- Ex: Explain right definition of genocide.
+		- Compare and contrast
+- 1 Essay (31 marks)
+## Chapters to focus on (may or may not appear)
+- [[War\|War]]: 5 traditions of war
+	- Eschatological, political, Cataclysmic, New War, Spectator-Spot/Western Way of war
+	- Clausewitz or Political Tradtions of War
+		- Trinity and political objectives ( the picture)
+		- Limited vs Total War
+			- Demand of something another party won't ever give up
+			- Who wins
+	- Mary Kaldor's criticism of Clausewitz: her is not the best definition of new war
+	- Case study: [[Ukraine-Russia Conflict\|Ukraine-Russia Conflict]]
+- Terrorism
+	- Characteristics of Terrorism
+	- Types of Counter Terrorism
+	- Current Event
+		- Examples of terrorist groups and tactics, non specific group (you can bring your own example)
+		
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/terrorism/#fda2e6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- What are the major terrorist groups in the world? 
+
+</div></div>
+
+- [[WMD\|WMD]]
+	- What are the difference btween them in terms of characteristics and effectiveness
+	- What are the effects of nuclear weapons?
+	- Why do states wnat to have nuclear weapons
+		- Realism
+		- Bureaucratic theory
+		- Constructivism
+		- Example of each theory and assessment
+		- Bring up a case, and pick whichever the best theory to explain this case
+- Why new war occurs, why we should pay attention?
+	- Trick question
+	- Technology
+	- Politics/Diplomacy
+- Characteristics of New War, if it occurs what does it look like?
+	- Asymmetricalization of war: small groups fights large opponent, guerilla tactics, blend in with population
+	- Privatization
+	- De-militarization
+- Result of new war
+	- Counterinsurgency/War of pacification
+	- War of Devastation: destroy everything
+	- Resource war
+  - Definition of genocide and conceptual discussion of failed states (not really needed, can skip)
+  - What is [[Ethnicity\|ethnicity]] (important)
+	  - Borderline definition by Anthony Smith
+  - Where does ethnicity come from?
+	  - Ancient Hartred, Instrumental, Mth0symbol complex
+	  - Entrenched hatred turns into ethnic discrimination
+  - How to resolve ethnic conflict
+	  - Power-sharing: don't work, but they still do it
+	  - Partition
+	  - Social construction of peaceful ideas
+
+- [[Coercion Strategies\|Coercion Strategies]] [[Deterrence\|Deterrence]]
+	- Status quo
+	- Use of force
+	- Timing
+- What are the ingredients of successful ocercive diplomacy
+	- Credinbility of the coercer
+	- Target
+	- ...
+- Nuclear deterrence
+	- First strike
+	- Case study: Russia's nuclear threats, did it work?

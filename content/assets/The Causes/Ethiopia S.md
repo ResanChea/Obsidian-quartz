@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/assets/the-causes/ethiopia-s/"}
+---
+
+# Ethiopia Scripts
+
+### Ethiopia 1
+
+So in the second case is Ethiopia and first we look at the Benishangul-Gumuz conflict. In the 1995 constitution, the Benishangul-Gumuz region was given the ability to select its own leaders and make decisions for its own region. But the constitution revised in 2002 given all the power to only five ethnic groups who are referred to as the "natives" while the "outsiders" are the Amharas, Oromos, Tigrayans, and Agaws. From this unfair representation, the outsiders still claim over the Metekkel region taking up jobs and offered unwelcomed occupation that finally led to the the major native group in the region, the Gumuz militia to attack non-Gumuz people. Its pointed to that this conflict occurred from marginalization of citizens, the ethnic exclusion from unequal representation, the poor government by the Tigray's People Liberation Front, and the lack of a conclusive democratic mechanism to fairly represent all ethnicity equally. This unequal representation not in politics of social groups and politicians but in the battle ethnic representation that is the cause of this conflict.
+
+### Ethiopia 2
+
+The Tigray's People Liberation Front has for over 3 decades controlled Ethiopia. But in 2018, Prime Minister Abiy Ahmed was elected from one of the smaller political parties who had conflicting inteerests with the TPLF, attempting to reform the government to centralize power and destroy Ethiopia's federal system. Abiy also allowed the Ethiopian People's Revolutionary Democratic Front, an enemy of the TPLF, to join the new coalition government the Prosperity Party. This alongside with Abiy removing Tigrayan government leaders from the government led the TPLF to refuse the offer to join the Prosperity Party. In 2020, the expected election for a new prime minister was postponed due to COVID leading the TPLF to stop recognizing the government and set up its own regional election in the Tigray's Region. From there the government stopped federal funding to the TPLF and launched military offensive operation accusing the TPLF of attacking one of its military bases. This conflict that started last year is still not ended till now. So we can see that the change in leadership from the older government (TPLF) to the new prime minister (Abiy Ahmed) and the uncertainty of the new election led to so much conflicts to gain control of the country. Therefore it is mainly the political struggle for political influence but it is embeded with ethnic tension and misrepresentation in the country as well.

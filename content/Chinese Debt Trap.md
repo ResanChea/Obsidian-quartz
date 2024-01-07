@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/chinese-debt-trap/"}
+---
+
+# Chinese Debt Trap
+![image-20230731181741816.png](/img/user/assets/Chinese%20Debt%20Trap/image-20230731181741816.png)
+[[China\|China]] 's Belt and Road Initiative is far more than the cooperative economic strategy that China makes it out to be. China has been setting out what is called a Debt trap on ==financially vulnerable countries== to gain geo-political benefits in return. So what China does is it lends out money in offers to build infrastructures such as ports and roads in countries that are unlikely to be able to pay back. These unreliable countries are ones that are in conflicts, authoritarian, and countries full of corruption. On top of that, China also requires that these foreign infrastructure projects that it funds ==must use Chinese construction companies==, so its basically putting much of the money back into China's economy rather than the host country's economy. Therefore, these countries that China invest in many times are unable to pay back the loans and ==must lease away the ports, lands, or infrastructure== back to China who made it for them. Ex: This was the case for Pakistan and Sri Lanka who had to lease their ports back to China for 50 years and 99 years respectively. 
+
+---
+
+## In Realism's Eyes
+
+These are signs that China is trying to establish what is called '**the String of Pears**' to set up navel bases along important maritime trade routes along the Indian Ocean and East Asia's waters. This can be explained in the context of the [[Structural Realism\|Structural Realism]] theory through [[Offensive Realism\|Offensive Realism]]. Offensive Realism says that the anarchic system pushes a rising power to always seek more or be punished. It mentions that having overwhelming power and dominating others is the best way to secure its own survival and security. This would explain how China's economy has been rapidly growing but it will move to seeking geopolitical control over not just its neighboring area but also the greater Asia's region. Assuming China will continue to rise, the United States is and will be its main challenger. Offensive Realism says an existing regional hegemon, in this case the United States in the west, will not let a rising regional hegemon come into being, referring to China in the East. They would rather have the uncontrolled region of East Asia divided and competed for among the regional great powers. This can explain the various US's initiatives to be more involved in Asia's economy and as a way to contain China's influence. These includes the 'pivot to Asia' during the Obama administration, the Trade War by Trump and maintained by the Biden administration.

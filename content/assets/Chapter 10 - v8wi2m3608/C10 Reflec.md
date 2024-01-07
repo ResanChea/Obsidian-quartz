@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/assets/chapter-10-v8wi2m3608/c10-reflec/"}
+---
+
+# C10 Reflection Paper
+
+The existence of a media group that isn't tied down by political biases to any interest groups is crucial in a democracy to spread the truth and opinions. TV and broadcasting medias have develop to where state-run or regulated publication is getting more free and decentralized in favor of democracy. The political impact of mass media is controversial among research schools. Minimal Effect states that mass media does not create mass opinion, but just to amplify public opinion . Agenda Setting states that mass media could control what people think about by covering a specific topic and divert attention from another topic by not covering that particular story. But mass media does not directly control what people think of a particular topic. Priming by the media could make the public pick one point of view over the other, while Framing could plant the thought of the connection between two things that the public might not have thought were connected . Direct Effect think mass media has a direct effect on behaviors and attitude of citizens and political leaders.
+
+To me a free and unbiased mass media is very much needed in any democracy. However, it must be stated that media should only cover truths, facts, statistics, and raw reports rather than opinion pieces. As the case for the United States, many media organizations has turned into a popular news anchor stating their opinion over a topic rather than reporting actual news. It could turn into sort of a political party of itself, of people following political news anchors or news channels.

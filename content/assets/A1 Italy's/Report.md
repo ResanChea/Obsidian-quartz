@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/assets/a1-italy-s/report/"}
+---
+
+# Report
+
+As economic situations also reacts to political stability and instability of the country, we need to take a look at that aspect as well. All types of foreign investments requires that the host country promise potential, promise to remain stable, and will predictably return profit back to the investor. However, reports have shown Italy's political stability rating has dropped to an all time low since 2004 (its lowest year). This corresponds to the drop in economic growth that seemed to have stagnated dropped to below 0.5 percent each year and even contraction in GDP in some years. It can also be seen that economic growth of Italy in the period of around 50 years have a downward trend of GDP growth each year. This stagnation and economic contraction have been said to be caused by the ever unstable political instability of Italy. Over the last 73 years, Italy has had 68 different governments. This is two time as many governments than the United Kingdom in the same time frame. The reason for the constant instability within Italy stems from it's constitution. From 1922 to 1943, Benito Mussolini had power Italy and led it into World War II. After World War II, in 1946, Italy's constitution was written to not let too much power  fall into one person's hand, making a weak government system. In result, the prime minister's office was weak and must pass reforms through confidential votes, if the leader loses the vote, he and the entire government must step down from power. That was the reason why Italy had so many different governments in such a short period of time.  The problems needs a reform or fine-tuning of the governmental system as a whole to deal with the problems of:
+
+- Prime Minister's office is weak in making any decisions, can be confidential voted out of office
+- Coequal houses of parliament that doesn't negotiate and must agree on identical bills to make into law
+- People are divided into many different political parties and coalition governments can fall apart if they don't come to terms with one party
